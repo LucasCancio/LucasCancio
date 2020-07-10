@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá!! 👋 Bem vindo(a) ao meu perfil!!
 
-<!--
-**LucasCancio/LucasCancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lucas Camargo Cancio :man_technologist:
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/LylL5U239aWMo/200w.gif" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasCancio)](https://github.com/LucasCancio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-camargo-cancio/)](https://www.linkedin.com/in/lucas-camargo-cancio/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.cancio7@gmail.com)](mailto:lucas.cancio7@gmail.com)
+
+Meu nome é Lucas e pretendo ser um desenvolvedor fullstack ✨. 
+
+### ❤ Amo:
+- <img src="https://camo.githubusercontent.com/9be29021cfdb21b2cc257a3efcb269f64d42f5b6/687474703a2f2f32352e6d656469612e74756d626c722e636f6d2f63393961353739646233616530666331363462663463636131343838383564332f74756d626c725f6d6a6776386b45754d67317338376e37396f315f3430302e676966" width="25px"> Animes 
+
+- <img src="https://i.pinimg.com/originals/51/5a/8d/515a8da287ae3d77dfbf851515c63734.gif" width="25px"> Jogos 
+
+- 🍔 Comida 
+
+- 💻 Programação
+
+Caso queira entrar em contato, fique a vontade 😄
