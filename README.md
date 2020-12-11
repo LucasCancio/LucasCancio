@@ -17,4 +17,6 @@ Meu nome é Lucas e pretendo ser um desenvolvedor fullstack :man_technologist:
 
 - 💻 Programação
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascancio&theme=gotham&custom_title=Linguagens%20mais%20usadas)](https://github.com/lucascancio/github-readme-stats)
+
 Caso queira entrar em contato, fique a vontade 😄
