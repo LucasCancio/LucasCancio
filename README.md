@@ -14,9 +14,7 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascancio&theme=gotham&custom_title=Linguagens%20mais%20usadas" align="center"/>
-
-<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascancio&theme=gotham&custom_title=Linguagens%20mais%20usadas&layout=compact" align="center"/>
 
 <p  align="center">
 
