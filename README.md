@@ -19,9 +19,11 @@
 <p  align="center">
    
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascancio&theme=gotham&custom_title=Linguagens%20mais%20usadas&layout=compact"  width="300px" />
-   
-   <br />
 
+</p>
+
+<p  align="center">
+  
    <a href="mailto:lucas.cancio7@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucas.cancio7@gmail.com"/></a>
   
